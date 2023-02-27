@@ -1,0 +1,8 @@
+Jeffrey DeRemo
+I opened vim and customized the features to they way i like it.Then i save tthe file looked at it in the terminal and then open to make sure i liked it then forced quit. Then i changed the file location and finished up the lab.
+syntax on
+set ruler
+set autoindent
+set number
+set ignorecase
+color slate
